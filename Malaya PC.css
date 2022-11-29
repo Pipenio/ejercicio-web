@@ -1,0 +1,80 @@
+@media (min-width: 701px){
+	body {
+		background-color: azure;
+	}
+	div#caja1 {
+		width: 80%; height: 50px; background-color: deepskyblue; margin: auto;
+	}
+	div#caja2 {
+		width: 70%; height: 200px; background-color: cadetblue; margin: auto; margin-top: 10px;
+	}
+	div#cajatriple1 {
+		width: 100%;
+		height: auto;
+		display: flex;
+		justify-content: center;
+		margin-top: 10px;
+		margin-bottom: 10px;
+	}
+	div#uno {
+		width: 30%; height: 100px; background-color: lightgreen; margin-right: 5px;
+	}
+	div#dos {
+		width: 30%; height: 100px; background-color: deepskyblue; margin-left: 5px; margin-right: 5px;
+	}
+	div#tres {
+		width: 30%; height: 100px; background-color:saddlebrown; margin-left: 5px;
+	}
+	div#cajatriple2 {
+		width: 100%;
+		height: auto;
+		display: flex;
+		justify-content: center;
+		margin-bottom: 10px;
+	}
+	div#cuatro {
+		width: 30%; height: 100px; background-color: lightgreen; margin-right: 5px;
+	}
+	div#cinco {
+		width: 30%; height: 100px; background-color: deepskyblue; margin-left: 5px; margin-right: 5px;
+	}
+	div#seis {
+		width: 30%; height: 100px; background-color:saddlebrown; margin-right: 5px; margin-left: 5px;
+	}
+	div#caja4 {
+		display: none;
+	}
+	div#cajatriple3 {
+		 width: 100%;
+		height: auto;
+		display: flex;
+		justify-content: center;
+		margin-bottom: 10px;
+	}
+	div#siete {
+		width: 100px; height: 100px; background-color: transparent; margin: auto; border-radius: 60px; border: 6px solid lightgreen; margin-top: 10px; margin-bottom: 10px; 
+	}
+	div#ocho {
+		width: 100px; height: 100px; background-color: transparent; margin: auto; border-radius: 60px; border: 6px solid lightgreen; margin-top: 10px; margin-bottom: 10px; 
+	}
+	div#nueve {
+		width: 100px; height: 100px; background-color: transparent; margin: auto; border-radius: 60px; border: 6px solid lightgreen; margin-top: 10px; margin-bottom: 10px; 
+	}
+	div#caja6 {
+		width: 100%; height: 50px; background-color: deepskyblue; margin: auto;
+	}
+	div#caja7 {
+		width: 100%; height: 50px; background-color: cadetblue; margin: auto; margin-top: 10px;
+	}
+	
+	
+	
+	
+}
+	
+	
+	
+	
+	
+	
+	
